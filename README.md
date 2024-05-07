@@ -11,7 +11,7 @@
 
 <style>
 body {background-color: powderblue;}
-img {border-radius: 50%;}
+img {border-radius: 10%;}
 
 </style>
 
