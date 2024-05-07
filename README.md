@@ -7,7 +7,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=10, initial-scale=100">
-  <title>hello :)</title> 
+
+
+<style>
+body {background-color: powderblue;}
+img {border-radius: 50%;}
+
+</style>
+
+    
  </head>
  <body>
 
