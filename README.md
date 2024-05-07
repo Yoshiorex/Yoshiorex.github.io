@@ -19,7 +19,7 @@ img {border-radius: 10%;}
     }
     .column{
     flex: 50%;
-    padding: 10px;
+    padding: 5px;
     }
 </style>
 
