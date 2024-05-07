@@ -37,7 +37,7 @@ img {border-radius: 10%;}
 <div class="column"> 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9DZIXTw00T0aQHH7acMKeJhSY5CPcIl47PICgcf5jA&s" border="0">
     </div>
-  <divclas="column"> 
+  <div class="column"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9DZIXTw00T0aQHH7acMKeJhSY5CPcIl47PICgcf5jA&s" border="0">
       </div>
  
@@ -47,7 +47,7 @@ img {border-radius: 10%;}
 <div class="column"> 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9DZIXTw00T0aQHH7acMKeJhSY5CPcIl47PICgcf5jA&s" border="0">
     </div>
-  <divclas="column"> 
+  <div class="column"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9DZIXTw00T0aQHH7acMKeJhSY5CPcIl47PICgcf5jA&s" border="0">
       </div>
  
