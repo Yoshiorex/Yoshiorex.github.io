@@ -18,7 +18,7 @@ img {border-radius: 10%;}
         display:flex;
     }
     .column{
-    flex: 50%;
+    width: 50%;
     padding: 5px;
     }
 </style>
