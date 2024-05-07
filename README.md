@@ -26,7 +26,7 @@ img {border-radius: 10%;}
    
           <p> 
            <a href="https://www.youtube.com/watch?v=3YHM768tt0c" target="_blank">  
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9DZIXTw00T0aQHH7acMKeJhSY5CPcIl47PICgcf5jA&s" border="1">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9DZIXTw00T0aQHH7acMKeJhSY5CPcIl47PICgcf5jA&s" border="0">
  </a>
  </p> 
 
