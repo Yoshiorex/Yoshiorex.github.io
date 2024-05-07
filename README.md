@@ -1,5 +1,5 @@
 
-"# Yoshiorex.github.io" 
+
 
 <html> 
 
@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=10, initial-scale=100">
-  <u>  <title>hello :)</title> </u> 
+  <title>hello :)</title> 
  </head>
  <body>
 
